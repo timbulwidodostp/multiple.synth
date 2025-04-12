@@ -1,6 +1,8 @@
 # multiple.synth
 Synthetic controls to multiple treated units Use multiple.synth (SCtools) With (In) R Software
 
+https://www.youtube.com/watch?v=V5gpojfAlak
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
